@@ -1,3 +1,3 @@
 # vanilla_parser
 
-Парсим сайт с книжками http://books.toscrape.com/catalogue/
+Парсим сайт с книжками https://books.toscrape.com/catalogue/page-1.html
